@@ -34,11 +34,12 @@ var paths = {
   sass: ['./scss/**/*.scss'],
   js: ['./src/**/*.js'],
   vendor: ['./vendor/**/*.js'],
-  templates: ['./src/**/*.tpl.html']
+  templates: ['./src/**/*.tpl.html'],
+  data: ['./data/**/*.csv', './data/**/*.json']
 };
  
 gulp.task('default', []);
-gulp.task('build', ['sass', 'js', 'vendor', 'templates', 'fonts']);
+gulp.task('build', ['sass', 'js', 'vendor', 'templates', 'fonts', 'data']);
  
  
 /*
@@ -131,6 +132,15 @@ gulp.task('fonts', function() {
         './vendor/fontawesome/**/*.ttf', './vendor/fontawesome/**/*.woff', './vendor/fontawesome/**/*.svg'
     ])
         .pipe(gulp.dest('./www/assets'));
+});
+ 
+/*
+ | --- Data ------------------------------------------
+ */
+ 
+gulp.task('data', function() {
+    return gulp.src(paths.data)
+        .pipe(gulp.dest('./www/assets/data'));
 });
  
 gulp.task('watch', function() {
