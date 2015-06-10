@@ -1,0 +1,12 @@
+{
+  "name": "pocket-truth",
+  "app_id": "",
+  "gulpStartupTasks": [
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "vendor/**/*",
+    "src/**/*"
+  ]
+}
