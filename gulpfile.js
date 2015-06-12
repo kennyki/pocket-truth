@@ -14,6 +14,7 @@ var minifyHtml = require('gulp-minify-html');
 var angularFilesort = require('gulp-angular-filesort');
 var bowerFiles = require('main-bower-files');
 var sh = require('shelljs');
+var gulpif = require('gulp-if');
  
 var bowerConf = {
         paths: './',
@@ -38,7 +39,7 @@ var paths = {
   data: ['./data/**/*.csv', './data/**/*.json']
 };
  
-gulp.task('default', []);
+gulp.task('default', ['build']);
 gulp.task('build', ['sass', 'js', 'vendor', 'templates', 'fonts', 'data']);
  
  
@@ -141,13 +142,6 @@ gulp.task('fonts', function() {
 gulp.task('data', function() {
     return gulp.src(paths.data)
         .pipe(gulp.dest('./www/assets/data'));
-});
- 
-gulp.task('watch', function() {
-  gulp.watch(paths.sass, ['sass']);
-  gulp.watch(paths.js, ['js']);
-  gulp.watch(paths.vendor, ['vendor']);
-    gulp.watch(paths.templates, ['templates']);
 });
  
 gulp.task('install', ['git-check'], function() {

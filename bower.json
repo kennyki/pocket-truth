@@ -5,7 +5,8 @@
     "ionic": "driftyco/ionic-bower#master"
   },
   "dependencies": {
-    "ngCordova": "master"
+    "ngCordova": "master",
+    "papaparse": "~4.1.1"
   },
   "overrides": {
     "ionic": {

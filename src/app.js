@@ -1,21 +1,12 @@
 angular.module('pocket-truth', [
   'ionic',
   'ngCordova',
+  'papaparse',
   // our compiled templates
   'templates',
-  'pocket-truth.util'
+  'pocket-truth.util',
+  'pocket-truth.hymns'
 ])
-
-.config(function($stateProvider, $urlRouterProvider) {
-
-  $stateProvider.state('main', {
-    url: '/',
-    templateUrl: 'app.tpl.html'
-  });
-
-  $urlRouterProvider.otherwise('/');
-  
-})
 
 .run(function($ionicPlatform, $rootScope, $ionicHistory, Notify) {
   Notify.loading(true);
@@ -54,6 +45,39 @@ angular.module('pocket-truth', [
     Notify.loading(false);
 
   });
+})
+
+.config(function($stateProvider, $urlRouterProvider) {
+
+  $stateProvider.state('main', {
+    url: '/',
+    templateUrl: 'app.tpl.html',
+    controller: 'AppController'
+  });
+
+  $urlRouterProvider.otherwise('/');
+  
+})
+
+.controller('AppController', function($scope, Notify, Hymns, $state) {
+  $scope.hymns = [];
+  $scope.locale = 'zh-TW';
+
+  Hymns.list($scope.locale).then(
+    function success(list) {
+      $scope.hymns = list;
+    },
+    Notify.error
+  );
+
+  $scope.viewHymn = function viewHymn(hymn) {
+    $state.go('view', {
+      locale: $scope.locale,
+      number: hymn.number,
+      numbercode: hymn.numbercode,
+      title: hymn.title
+    });
+  };
 })
 
 ;

@@ -2,11 +2,13 @@
   "name": "pocket-truth",
   "app_id": "",
   "gulpStartupTasks": [
-    "watch"
+    "build"
   ],
   "watchPatterns": [
-    "www/**/*",
+    "www/index.html",
     "vendor/**/*",
-    "src/**/*"
+    "src/**/*",
+    "scss/**/*",
+    "data/**/*"
   ]
 }

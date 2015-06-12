@@ -1,1913 +1,1908 @@
-{
-  "type": "hymns",
-  "name": "繁",
-  "code": "zh-TW",
-  "payload": [
-    {
-      "number": "001",
-      "title": "頌讚獨一真神"
-    },
-    {
-      "number": "002",
-      "title": "讚美聖父"
-    },
-    {
-      "number": "003",
-      "title": "亞伯拉罕的神"
-    },
-    {
-      "number": "004",
-      "title": "讚美天父"
-    },
-    {
-      "number": "005",
-      "title": "萬有讚美天父"
-    },
-    {
-      "number": "006",
-      "title": "頌主造化大功"
-    },
-    {
-      "number": "007",
-      "title": "萬有齊頌主"
-    },
-    {
-      "number": "008",
-      "title": "當向神歌頌"
-    },
-    {
-      "number": "009",
-      "title": "向主歡呼"
-    },
-    {
-      "number": "010",
-      "title": "榮耀歸耶穌"
-    },
-    {
-      "number": "011",
-      "title": "在主內頂快樂"
-    },
-    {
-      "number": "012",
-      "title": "耶穌尊名"
-    },
-    {
-      "number": "013",
-      "title": "無人能比耶穌"
-    },
-    {
-      "number": "014",
-      "title": "萬王之王"
-    },
-    {
-      "number": "015",
-      "title": "頌讚耶穌"
-    },
-    {
-      "number": "016",
-      "title": "敬拜天地主宰"
-    },
-    {
-      "number": "017",
-      "title": "頌讚主慈愛"
-    },
-    {
-      "number": "018",
-      "title": "歌頌主恩"
-    },
-    {
-      "number": "019",
-      "title": "和散那"
-    },
-    {
-      "number": "020",
-      "title": "尊主為王"
-    },
-    {
-      "number": "021",
-      "title": "美哉，主耶穌"
-    },
-    {
-      "number": "022",
-      "title": "讚美經訓"
-    },
-    {
-      "number": "023",
-      "title": "聖經寶貴"
-    },
-    {
-      "number": "024",
-      "title": "生命之道"
-    },
-    {
-      "number": "025",
-      "title": "神言純潔真誠"
-    },
-    {
-      "number": "026",
-      "title": "求主向我發言"
-    },
-    {
-      "number": "027",
-      "title": "耶穌愛我"
-    },
-    {
-      "number": "028",
-      "title": "耶穌仁愛"
-    },
-    {
-      "number": "029",
-      "title": "主尋亡羊"
-    },
-    {
-      "number": "030",
-      "title": "妙愛找我"
-    },
-    {
-      "number": "031",
-      "title": "主全為我"
-    },
-    {
-      "number": "032",
-      "title": "耶穌肯收納罪人"
-    },
-    {
-      "number": "033",
-      "title": "到新耶路撒冷"
-    },
-    {
-      "number": "034",
-      "title": "耶穌恩召"
-    },
-    {
-      "number": "035",
-      "title": "雨夜過後見光明"
-    },
-    {
-      "number": "036",
-      "title": "微聲盼望"
-    },
-    {
-      "number": "037",
-      "title": "硃紅罪變如雪"
-    },
-    {
-      "number": "038",
-      "title": "我聞耶穌呼聲"
-    },
-    {
-      "number": "039",
-      "title": "惟獨主血有效"
-    },
-    {
-      "number": "040",
-      "title": "主之寶血"
-    },
-    {
-      "number": "041",
-      "title": "主血有權能"
-    },
-    {
-      "number": "042",
-      "title": "羔羊寶血"
-    },
-    {
-      "number": "043",
-      "title": "寶血洗淨"
-    },
-    {
-      "number": "044",
-      "title": "惟有主能救我"
-    },
-    {
-      "number": "045",
-      "title": "搭救罪人"
-    },
-    {
-      "number": "046",
-      "title": "主開心眼"
-    },
-    {
-      "number": "047",
-      "title": "耶穌救我"
-    },
-    {
-      "number": "048",
-      "title": "救恩成在十架"
-    },
-    {
-      "number": "049",
-      "title": "主拯救我"
-    },
-    {
-      "number": "050",
-      "title": "惟獨耶穌"
-    },
-    {
-      "number": "051(甲)",
-      "numbercode": "051a",
-      "title": "萬古靈磐"
-    },
-    {
-      "number": "051(乙)",
-      "numbercode": "051b",
-      "title": "萬古靈磐"
-    },
-    {
-      "number": "052",
-      "title": "主恩浩大"
-    },
-    {
-      "number": "053",
-      "title": "天父慈仁"
-    },
-    {
-      "number": "054",
-      "title": "離暗就光"
-    },
-    {
-      "number": "055",
-      "title": "蒙主釋放"
-    },
-    {
-      "number": "056",
-      "title": "禧年已到"
-    },
-    {
-      "number": "057",
-      "title": "我罪極重"
-    },
-    {
-      "number": "058",
-      "title": "耶穌領我"
-    },
-    {
-      "number": "059",
-      "title": "求主引導"
-    },
-    {
-      "number": "060",
-      "title": "行走天路"
-    },
-    {
-      "number": "061",
-      "title": "求主引路"
-    },
-    {
-      "number": "062",
-      "title": "願主偕行"
-    },
-    {
-      "number": "063",
-      "title": "願主領路"
-    },
-    {
-      "number": "064",
-      "title": "真光領導"
-    },
-    {
-      "number": "065",
-      "title": "靠近主"
-    },
-    {
-      "number": "066",
-      "title": "主，我等候祢"
-    },
-    {
-      "number": "067",
-      "title": "求主指引我路"
-    },
-    {
-      "number": "068",
-      "title": "求主攜我手"
-    },
-    {
-      "number": "069",
-      "title": "求主掌我舵"
-    },
-    {
-      "number": "070",
-      "title": "主有萬福"
-    },
-    {
-      "number": "071",
-      "title": "耶穌我主"
-    },
-    {
-      "number": "072",
-      "title": "萬福之主"
-    },
-    {
-      "number": "073",
-      "title": "賜福救主"
-    },
-    {
-      "number": "074",
-      "title": "救主降生"
-    },
-    {
-      "number": "075",
-      "title": "基督降生"
-    },
-    {
-      "number": "076",
-      "title": "耶穌受死"
-    },
-    {
-      "number": "077",
-      "title": "高舉十架"
-    },
-    {
-      "number": "078",
-      "title": "樂主復活"
-    },
-    {
-      "number": "079",
-      "title": "耶穌復活頌"
-    },
-    {
-      "number": "080",
-      "title": "主已戰勝死亡"
-    },
-    {
-      "number": "081",
-      "title": "耶穌再臨"
-    },
-    {
-      "number": "082",
-      "title": "儆醒預備"
-    },
-    {
-      "number": "083",
-      "title": "耶穌來時"
-    },
-    {
-      "number": "084",
-      "title": "歡迎我王"
-    },
-    {
-      "number": "085",
-      "title": "主快再來"
-    },
-    {
-      "number": "086",
-      "title": "善惡有報"
-    },
-    {
-      "number": "087",
-      "title": "審判大日"
-    },
-    {
-      "number": "088",
-      "title": "救主恩功"
-    },
-    {
-      "number": "089",
-      "title": "主恩更多"
-    },
-    {
-      "number": "090",
-      "title": "數算恩典"
-    },
-    {
-      "number": "091",
-      "title": "想念主愛"
-    },
-    {
-      "number": "092",
-      "title": "病癒感恩"
-    },
-    {
-      "number": "093",
-      "title": "更新感恩"
-    },
-    {
-      "number": "094",
-      "title": "主恩長存"
-    },
-    {
-      "number": "095",
-      "title": "受膏的君王"
-    },
-    {
-      "number": "096",
-      "title": "奇異恩典"
-    },
-    {
-      "number": "097",
-      "title": "我主離開象牙宮"
-    },
-    {
-      "number": "098",
-      "title": "當我思量十架"
-    },
-    {
-      "number": "099",
-      "title": "愛主更深"
-    },
-    {
-      "number": "100",
-      "title": "捨己為主"
-    },
-    {
-      "number": "101",
-      "title": "專愛耶穌"
-    },
-    {
-      "number": "102",
-      "title": "為主而活"
-    },
-    {
-      "number": "103",
-      "title": "快親近主"
-    },
-    {
-      "number": "104",
-      "title": "深愛耶穌"
-    },
-    {
-      "number": "105",
-      "title": "為主捨命"
-    },
-    {
-      "number": "106",
-      "title": "我是耶穌門徒"
-    },
-    {
-      "number": "107",
-      "title": "容我與主同行"
-    },
-    {
-      "number": "108",
-      "title": "跟從救主"
-    },
-    {
-      "number": "109",
-      "title": "踐主跡行"
-    },
-    {
-      "number": "110",
-      "title": "撇物從主"
-    },
-    {
-      "number": "111",
-      "title": "跟隨救主"
-    },
-    {
-      "number": "112",
-      "title": "我跟隨主"
-    },
-    {
-      "number": "113",
-      "title": "奉獻會堂"
-    },
-    {
-      "number": "114",
-      "title": "感恩奉獻"
-    },
-    {
-      "number": "115",
-      "title": "會堂落成"
-    },
-    {
-      "number": "116",
-      "title": "獻上身心"
-    },
-    {
-      "number": "117",
-      "title": "奉獻祈納"
-    },
-    {
-      "number": "118",
-      "title": "奉獻全生"
-    },
-    {
-      "number": "119",
-      "title": "都歸耶穌我救主"
-    },
-    {
-      "number": "120",
-      "title": "奉獻所有"
-    },
-    {
-      "number": "121",
-      "title": "我獻何物給耶穌？"
-    },
-    {
-      "number": "122",
-      "title": "彼此相愛"
-    },
-    {
-      "number": "123",
-      "title": "聖徒送行"
-    },
-    {
-      "number": "124(甲)",
-      "numbercode": "124a",
-      "title": "實行愛心"
-    },
-    {
-      "number": "124(乙)",
-      "numbercode": "124b",
-      "title": "實行愛心"
-    },
-    {
-      "number": "125",
-      "title": "別離詩"
-    },
-    {
-      "number": "126",
-      "title": "兄弟相愛"
-    },
-    {
-      "number": "127",
-      "title": "切實相愛"
-    },
-    {
-      "number": "128",
-      "title": "快樂聖日"
-    },
-    {
-      "number": "129",
-      "title": "紀念聖日"
-    },
-    {
-      "number": "130",
-      "title": "安息聖日"
-    },
-    {
-      "number": "131",
-      "title": "樂守聖日"
-    },
-    {
-      "number": "132(甲)",
-      "numbercode": "132a",
-      "title": "求主蔭庇"
-    },
-    {
-      "number": "132(乙)",
-      "numbercode": "132b",
-      "title": "求主蔭庇"
-    },
-    {
-      "number": "133",
-      "title": "耶穌不改變"
-    },
-    {
-      "number": "134",
-      "title": "仰望救主"
-    },
-    {
-      "number": "135",
-      "title": "為甚麼忙?"
-    },
-    {
-      "number": "136",
-      "title": "我知所信的是誰"
-    },
-    {
-      "number": "137",
-      "title": "主是我良友"
-    },
-    {
-      "number": "138",
-      "title": "我所信有根基"
-    },
-    {
-      "number": "139",
-      "title": "聞主過路"
-    },
-    {
-      "number": "140",
-      "title": "救主明白你憂傷"
-    },
-    {
-      "number": "141",
-      "title": "永樂或永苦？"
-    },
-    {
-      "number": "142",
-      "title": "靠主消除憂傷"
-    },
-    {
-      "number": "143",
-      "title": "我要投靠主"
-    },
-    {
-      "number": "144",
-      "title": "專心仰賴主"
-    },
-    {
-      "number": "145",
-      "title": "倚靠耶穌"
-    },
-    {
-      "number": "146",
-      "title": "時刻靠主"
-    },
-    {
-      "number": "147",
-      "title": "先求神國神義"
-    },
-    {
-      "number": "148",
-      "title": "耶穌牧我"
-    },
-    {
-      "number": "149",
-      "title": "安息在主膀臂中"
-    },
-    {
-      "number": "150",
-      "title": "善牧看顧"
-    },
-    {
-      "number": "151",
-      "title": "天父必看顧你"
-    },
-    {
-      "number": "152",
-      "title": "主必預備"
-    },
-    {
-      "number": "153",
-      "title": "時刻交託主"
-    },
-    {
-      "number": "154",
-      "title": "耶穌是我堅固保障"
-    },
-    {
-      "number": "155",
-      "title": "主常看顧我"
-    },
-    {
-      "number": "156",
-      "title": "與主同行"
-    },
-    {
-      "number": "157",
-      "title": "神國在心"
-    },
-    {
-      "number": "158",
-      "title": "走在主路上"
-    },
-    {
-      "number": "159",
-      "title": "主賜真平安"
-    },
-    {
-      "number": "160",
-      "title": "真光在心"
-    },
-    {
-      "number": "161",
-      "title": "在主蔭下"
-    },
-    {
-      "number": "162",
-      "title": "主負我重擔"
-    },
-    {
-      "number": "163",
-      "title": "我靈魂永安樂"
-    },
-    {
-      "number": "164",
-      "title": "主恩夠用"
-    },
-    {
-      "number": "165",
-      "title": "耶穌懷抱我"
-    },
-    {
-      "number": "166",
-      "title": "在主蔭庇之下"
-    },
-    {
-      "number": "167",
-      "title": "十架精兵"
-    },
-    {
-      "number": "168",
-      "title": "精兵前進"
-    },
-    {
-      "number": "169",
-      "title": "善惡對敵"
-    },
-    {
-      "number": "170",
-      "title": "為主勇往"
-    },
-    {
-      "number": "171",
-      "title": "教會惟一根基"
-    },
-    {
-      "number": "172",
-      "title": "你該得勝"
-    },
-    {
-      "number": "173",
-      "title": "十架旌旗"
-    },
-    {
-      "number": "174",
-      "title": "真教會必興起"
-    },
-    {
-      "number": "175",
-      "title": "百折不回"
-    },
-    {
-      "number": "176",
-      "title": "常常有勝利"
-    },
-    {
-      "number": "177",
-      "title": "切莫順從誘惑"
-    },
-    {
-      "number": "178",
-      "title": "趁還有今天"
-    },
-    {
-      "number": "179",
-      "title": "預備進天國"
-    },
-    {
-      "number": "180",
-      "title": "永生門路"
-    },
-    {
-      "number": "181",
-      "title": "我必前進"
-    },
-    {
-      "number": "182",
-      "title": "往前走"
-    },
-    {
-      "number": "183",
-      "title": "勇往直前"
-    },
-    {
-      "number": "184",
-      "title": "奔跑天路"
-    },
-    {
-      "number": "185",
-      "title": "思慕天家"
-    },
-    {
-      "number": "186",
-      "title": "我家乃在天"
-    },
-    {
-      "number": "187",
-      "title": "來到美地"
-    },
-    {
-      "number": "188",
-      "title": "榮歸天家"
-    },
-    {
-      "number": "189",
-      "title": "天城美景"
-    },
-    {
-      "number": "190",
-      "title": "天國的人"
-    },
-    {
-      "number": "191",
-      "title": "我家在天"
-    },
-    {
-      "number": "192",
-      "title": "十架領路"
-    },
-    {
-      "number": "193",
-      "title": "榮耀天國"
-    },
-    {
-      "number": "194",
-      "title": "安息在天家"
-    },
-    {
-      "number": "195",
-      "title": "羨慕福地"
-    },
-    {
-      "number": "196",
-      "title": "榮美福地"
-    },
-    {
-      "number": "197",
-      "title": "非金也非銀"
-    },
-    {
-      "number": "198",
-      "title": "靠主領回天家"
-    },
-    {
-      "number": "199",
-      "title": "天上快樂家"
-    },
-    {
-      "number": "200",
-      "title": "思慕天鄉"
-    },
-    {
-      "number": "201",
-      "title": "永遠的榮耀"
-    },
-    {
-      "number": "202",
-      "title": "天上安樂處"
-    },
-    {
-      "number": "203",
-      "title": "百合花"
-    },
-    {
-      "number": "204",
-      "title": "因信有盼望"
-    },
-    {
-      "number": "205",
-      "title": "在基督裡必復活"
-    },
-    {
-      "number": "206",
-      "title": "我必親見主面"
-    },
-    {
-      "number": "207",
-      "title": "思念主來"
-    },
-    {
-      "number": "208",
-      "title": "聖徒被提"
-    },
-    {
-      "number": "209",
-      "title": "我必當面見主"
-    },
-    {
-      "number": "210",
-      "title": "當我行完今生路"
-    },
-    {
-      "number": "211",
-      "title": "天父監察"
-    },
-    {
-      "number": "212",
-      "title": "為主發光"
-    },
-    {
-      "number": "213",
-      "title": "積少成多"
-    },
-    {
-      "number": "214",
-      "title": "八福頌"
-    },
-    {
-      "number": "215",
-      "title": "真教會美德"
-    },
-    {
-      "number": "216",
-      "title": "聖徒美德"
-    },
-    {
-      "number": "217",
-      "title": "力行主道"
-    },
-    {
-      "number": "218",
-      "title": "聖靈佳果"
-    },
-    {
-      "number": "219",
-      "title": "隨處發光"
-    },
-    {
-      "number": "220",
-      "title": "火煉精金"
-    },
-    {
-      "number": "221",
-      "title": "克制情慾"
-    },
-    {
-      "number": "222",
-      "title": "清心有福"
-    },
-    {
-      "number": "223",
-      "title": "選民靈歌"
-    },
-    {
-      "number": "224",
-      "title": "求主察看"
-    },
-    {
-      "number": "225",
-      "title": "順從聖靈"
-    },
-    {
-      "number": "226",
-      "title": "願成主旨"
-    },
-    {
-      "number": "227",
-      "title": "聽命有福"
-    },
-    {
-      "number": "228",
-      "title": "遵命有福"
-    },
-    {
-      "number": "229",
-      "title": "謹守十架"
-    },
-    {
-      "number": "230",
-      "title": "義人有福"
-    },
-    {
-      "number": "231",
-      "title": "照主所願"
-    },
-    {
-      "number": "232",
-      "title": "要同耶穌一樣"
-    },
-    {
-      "number": "233",
-      "title": "聯屬耶穌"
-    },
-    {
-      "number": "234",
-      "title": "與主日近"
-    },
-    {
-      "number": "235",
-      "title": "主我一體"
-    },
-    {
-      "number": "236",
-      "title": "我屬耶穌"
-    },
-    {
-      "number": "237",
-      "title": "耶穌住在我心"
-    },
-    {
-      "number": "238",
-      "title": "來居我心，主耶穌！"
-    },
-    {
-      "number": "239",
-      "title": "求主同住"
-    },
-    {
-      "number": "240",
-      "title": "與主同樂"
-    },
-    {
-      "number": "241",
-      "title": "我生命的君王"
-    },
-    {
-      "number": "242",
-      "title": "主在門外等候"
-    },
-    {
-      "number": "243",
-      "title": "引我更親近"
-    },
-    {
-      "number": "244",
-      "title": "主，我願像祢！"
-    },
-    {
-      "number": "245",
-      "title": "求主密相契"
-    },
-    {
-      "number": "246",
-      "title": "懇求聖靈"
-    },
-    {
-      "number": "247",
-      "title": "聖靈權能"
-    },
-    {
-      "number": "248",
-      "title": "我要求聖靈"
-    },
-    {
-      "number": "249",
-      "title": "靈洗各人"
-    },
-    {
-      "number": "250",
-      "title": "從新得力"
-    },
-    {
-      "number": "251",
-      "title": "聖靈的洗"
-    },
-    {
-      "number": "252",
-      "title": "渴慕聖靈充滿"
-    },
-    {
-      "number": "253",
-      "title": "聖靈已來"
-    },
-    {
-      "number": "254",
-      "title": "方言寶貴"
-    },
-    {
-      "number": "255",
-      "title": "主今夜賜福"
-    },
-    {
-      "number": "256",
-      "title": "恩雨大降"
-    },
-    {
-      "number": "257",
-      "title": "儆醒祈禱"
-    },
-    {
-      "number": "258",
-      "title": "禁食祈禱"
-    },
-    {
-      "number": "259",
-      "title": "恆切禱告"
-    },
-    {
-      "number": "260",
-      "title": "清晨頌主"
-    },
-    {
-      "number": "261",
-      "title": "晚禱感恩"
-    },
-    {
-      "number": "262",
-      "title": "與神靈交"
-    },
-    {
-      "number": "263",
-      "title": "耶穌恩友"
-    },
-    {
-      "number": "264",
-      "title": "求主垂憐"
-    },
-    {
-      "number": "265",
-      "title": "快告訴耶穌"
-    },
-    {
-      "number": "266",
-      "title": "傳揚福音"
-    },
-    {
-      "number": "267",
-      "title": "聽主差遣"
-    },
-    {
-      "number": "268",
-      "title": "聽從主呼召"
-    },
-    {
-      "number": "269",
-      "title": "聞主呼召我"
-    },
-    {
-      "number": "270",
-      "title": "要遙遠地方"
-    },
-    {
-      "number": "271",
-      "title": "不要懼怕"
-    },
-    {
-      "number": "272",
-      "title": "保惠師已經到"
-    },
-    {
-      "number": "273",
-      "title": "大喜信息"
-    },
-    {
-      "number": "274(甲)",
-      "numbercode": "274a",
-      "title": "晚雨降臨"
-    },
-    {
-      "number": "274(乙)",
-      "numbercode": "274b",
-      "title": "福音要遍傳"
-    },
-    {
-      "number": "275",
-      "title": "禾捆收回家"
-    },
-    {
-      "number": "276",
-      "title": "來聽福音"
-    },
-    {
-      "number": "277",
-      "title": "喜傳福音"
-    },
-    {
-      "number": "278",
-      "title": "主拯救"
-    },
-    {
-      "number": "279",
-      "title": "敞開恩門"
-    },
-    {
-      "number": "280",
-      "title": "廣傳福音"
-    },
-    {
-      "number": "281",
-      "title": "嘆未得人"
-    },
-    {
-      "number": "282",
-      "title": "努力工作"
-    },
-    {
-      "number": "283",
-      "title": "為主收莊稼"
-    },
-    {
-      "number": "284",
-      "title": "發出福音真光"
-    },
-    {
-      "number": "285",
-      "title": "開船入深海"
-    },
-    {
-      "number": "286",
-      "title": "傳佈救恩"
-    },
-    {
-      "number": "287",
-      "title": "為耶穌勞力"
-    },
-    {
-      "number": "288",
-      "title": "趕快工作"
-    },
-    {
-      "number": "289",
-      "title": "派任聖職"
-    },
-    {
-      "number": "290",
-      "title": "按立禮"
-    },
-    {
-      "number": "291",
-      "title": "洗罪泉源"
-    },
-    {
-      "number": "292",
-      "title": "贖罪妙恩"
-    },
-    {
-      "number": "293",
-      "title": "洗淨罪愆"
-    },
-    {
-      "number": "294",
-      "title": "我來就祢"
-    },
-    {
-      "number": "295",
-      "title": "洗腳禮"
-    },
-    {
-      "number": "296(甲)",
-      "numbercode": "296a",
-      "title": "紀念主死"
-    },
-    {
-      "number": "296(乙)",
-      "numbercode": "296b",
-      "title": "豈能讓主獨背十架"
-    },
-    {
-      "number": "297",
-      "title": "為主我立何志?"
-    },
-    {
-      "number": "298",
-      "title": "聖徒婚禮"
-    },
-    {
-      "number": "299",
-      "title": "婚禮祝歌"
-    },
-    {
-      "number": "300",
-      "title": "祝新婚之樂"
-    },
-    {
-      "number": "301",
-      "title": "人生不長"
-    },
-    {
-      "number": "302",
-      "title": "安葬"
-    },
-    {
-      "number": "303",
-      "title": "天國來了"
-    },
-    {
-      "number": "304",
-      "title": "浪子回家"
-    },
-    {
-      "number": "305",
-      "title": "儆醒自責"
-    },
-    {
-      "number": "306",
-      "title": "悔改重生"
-    },
-    {
-      "number": "307",
-      "title": "回來罷！"
-    },
-    {
-      "number": "308",
-      "title": "天父接納我"
-    },
-    {
-      "number": "309",
-      "title": "新年祈望"
-    },
-    {
-      "number": "310",
-      "title": "年終感頌"
-    },
-    {
-      "number": "311",
-      "title": "一齊來歌頌"
-    },
-    {
-      "number": "312",
-      "title": "齊聚主前"
-    },
-    {
-      "number": "313",
-      "title": "這世界的光是耶穌"
-    },
-    {
-      "number": "314",
-      "title": "耶穌呼召"
-    },
-    {
-      "number": "315",
-      "title": "永世的君王"
-    },
-    {
-      "number": "316",
-      "title": "敬拜榮耀王"
-    },
-    {
-      "number": "317",
-      "title": "我救主已來到"
-    },
-    {
-      "number": "318",
-      "title": "安穩港口"
-    },
-    {
-      "number": "319",
-      "title": "敬拜基督新生王"
-    },
-    {
-      "number": "320",
-      "title": "天使歌唱"
-    },
-    {
-      "number": "321",
-      "title": "信徒齊來頌主"
-    },
-    {
-      "number": "322",
-      "title": "榮耀歸於天父"
-    },
-    {
-      "number": "323",
-      "title": "獻上千萬榮冠"
-    },
-    {
-      "number": "324",
-      "title": "慈愛的救主"
-    },
-    {
-      "number": "325",
-      "title": "救主耶穌是我至寶"
-    },
-    {
-      "number": "326",
-      "title": "歡唱詠不停"
-    },
-    {
-      "number": "327",
-      "title": "多認識耶穌"
-    },
-    {
-      "number": "328",
-      "title": "讚美真神創造主"
-    },
-    {
-      "number": "329",
-      "title": "天父我神"
-    },
-    {
-      "number": "330",
-      "title": "奇妙平安由神來"
-    },
-    {
-      "number": "331",
-      "title": "聖靈信實保惠師"
-    },
-    {
-      "number": "332",
-      "title": "真神大愛"
-    },
-    {
-      "number": "333",
-      "title": "欣逢聖日"
-    },
-    {
-      "number": "334",
-      "title": "耶穌，沙崙玫瑰"
-    },
-    {
-      "number": "335",
-      "title": "真希奇！我主的慈愛"
-    },
-    {
-      "number": "336",
-      "title": "耶穌是否仍然看顧我"
-    },
-    {
-      "number": "337",
-      "title": "耶穌揀選我"
-    },
-    {
-      "number": "338",
-      "title": "祂拯救我"
-    },
-    {
-      "number": "339",
-      "title": "耶穌是我一切所有"
-    },
-    {
-      "number": "340",
-      "title": "奇妙的救主"
-    },
-    {
-      "number": "341",
-      "title": "讓主耶穌進入你心"
-    },
-    {
-      "number": "342",
-      "title": "你的光當照耀"
-    },
-    {
-      "number": "343",
-      "title": "愛拯救我"
-    },
-    {
-      "number": "344",
-      "title": "暴風雨中的避難所"
-    },
-    {
-      "number": "345",
-      "title": "深哉、深哉，耶穌的愛"
-    },
-    {
-      "number": "346",
-      "title": "耶穌溫柔慈聲呼喚"
-    },
-    {
-      "number": "347",
-      "title": "萬古磐石藏身所"
-    },
-    {
-      "number": "348",
-      "title": "祂是奇妙救主"
-    },
-    {
-      "number": "349",
-      "title": "救主正在等待"
-    },
-    {
-      "number": "350",
-      "title": "主比生命更寶貴"
-    },
-    {
-      "number": "351",
-      "title": "每一天"
-    },
-    {
-      "number": "352",
-      "title": "主藏我靈"
-    },
-    {
-      "number": "353",
-      "title": "在主十架下"
-    },
-    {
-      "number": "354",
-      "title": "只要信祂"
-    },
-    {
-      "number": "355",
-      "title": "平安永在我心"
-    },
-    {
-      "number": "356",
-      "title": "信心使我得勝"
-    },
-    {
-      "number": "357",
-      "title": "主耶和華是我牧者"
-    },
-    {
-      "number": "358",
-      "title": "基督活在我心"
-    },
-    {
-      "number": "359",
-      "title": "同心前往錫安"
-    },
-    {
-      "number": "360",
-      "title": "你心可有住處為主？"
-    },
-    {
-      "number": "361",
-      "title": "領我到髑髏地"
-    },
-    {
-      "number": "362",
-      "title": "求主擘生命餅"
-    },
-    {
-      "number": "363",
-      "title": "堅立在應許上"
-    },
-    {
-      "number": "364",
-      "title": "主話語深藏我心"
-    },
-    {
-      "number": "365",
-      "title": "救主受難"
-    },
-    {
-      "number": "366",
-      "title": "照主旨意行"
-    },
-    {
-      "number": "367",
-      "title": "祂看顧麻雀"
-    },
-    {
-      "number": "368",
-      "title": "快傳福音"
-    },
-    {
-      "number": "369",
-      "title": "在各各他"
-    },
-    {
-      "number": "370",
-      "title": "主幫助我們"
-    },
-    {
-      "number": "371",
-      "title": "面臨試煉時候"
-    },
-    {
-      "number": "372",
-      "title": "降百福甘霖"
-    },
-    {
-      "number": "373",
-      "title": "只要相信"
-    },
-    {
-      "number": "374",
-      "title": "求永恆君王前導"
-    },
-    {
-      "number": "375",
-      "title": "主呼召你"
-    },
-    {
-      "number": "376",
-      "title": "堅固磐石"
-    },
-    {
-      "number": "377",
-      "title": "主常常顧念我"
-    },
-    {
-      "number": "378",
-      "title": "信靠順服"
-    },
-    {
-      "number": "379",
-      "title": "轉眼仰望耶穌"
-    },
-    {
-      "number": "380",
-      "title": "我主是我生命標竿"
-    },
-    {
-      "number": "381",
-      "title": "我何等愛耶穌"
-    },
-    {
-      "number": "382",
-      "title": "我靈安穩"
-    },
-    {
-      "number": "383",
-      "title": "將有一天"
-    },
-    {
-      "number": "384",
-      "title": "我願效法耶穌"
-    },
-    {
-      "number": "385",
-      "title": "救贖"
-    },
-    {
-      "number": "386",
-      "title": "我得一友"
-    },
-    {
-      "number": "387",
-      "title": "求主對我述說"
-    },
-    {
-      "number": "388",
-      "title": "靠近耶穌慈懷"
-    },
-    {
-      "number": "389",
-      "title": "親近，更親近"
-    },
-    {
-      "number": "390",
-      "title": "主！我願更親近"
-    },
-    {
-      "number": "391",
-      "title": "永不孤單"
-    },
-    {
-      "number": "392",
-      "title": "任主差派"
-    },
-    {
-      "number": "393",
-      "title": "聽！良牧慈聲"
-    },
-    {
-      "number": "394",
-      "title": "感謝神"
-    },
-    {
-      "number": "395",
-      "title": "向高處行"
-    },
-    {
-      "number": "396",
-      "title": "我要真誠"
-    },
-    {
-      "number": "397",
-      "title": "何不今日歸耶穌"
-    },
-    {
-      "number": "398",
-      "title": "為主而活"
-    },
-    {
-      "number": "399",
-      "title": "主，我願做祢門徒"
-    },
-    {
-      "number": "400",
-      "title": "我深願更像耶穌"
-    },
-    {
-      "number": "401",
-      "title": "須用功夫成聖"
-    },
-    {
-      "number": "402",
-      "title": "神的道路"
-    },
-    {
-      "number": "403",
-      "title": "任憑主旨意"
-    },
-    {
-      "number": "404",
-      "title": "讚美救主"
-    },
-    {
-      "number": "405",
-      "title": "你是否已禱告"
-    },
-    {
-      "number": "406",
-      "title": "要告訴耶穌"
-    },
-    {
-      "number": "407",
-      "title": "在花園裡"
-    },
-    {
-      "number": "408",
-      "title": "若主今日再臨"
-    },
-    {
-      "number": "409",
-      "title": "我可願作十架精兵"
-    },
-    {
-      "number": "410",
-      "title": "再等不多時"
-    },
-    {
-      "number": "411",
-      "title": "美麗的禱告花園"
-    },
-    {
-      "number": "412",
-      "title": "寶貴禱告良辰"
-    },
-    {
-      "number": "413",
-      "title": "我們同心聚集"
-    },
-    {
-      "number": "414",
-      "title": "恩主與我同在"
-    },
-    {
-      "number": "415",
-      "title": "獻上至好的"
-    },
-    {
-      "number": "416",
-      "title": "你可情願？"
-    },
-    {
-      "number": "417",
-      "title": "耶穌領我回家"
-    },
-    {
-      "number": "418",
-      "title": "一切獻在壇上"
-    },
-    {
-      "number": "419",
-      "title": "因我得福"
-    },
-    {
-      "number": "420",
-      "title": "奉獻與祢"
-    },
-    {
-      "number": "421",
-      "title": "請來赴宴"
-    },
-    {
-      "number": "422",
-      "title": "我錨堅固牢靠"
-    },
-    {
-      "number": "423",
-      "title": "對我述說耶穌故事"
-    },
-    {
-      "number": "424",
-      "title": "我王之事工"
-    },
-    {
-      "number": "425",
-      "title": "我屬我王"
-    },
-    {
-      "number": "426",
-      "title": "何等奇妙的救主"
-    },
-    {
-      "number": "427",
-      "title": "有一故事傳給萬邦"
-    },
-    {
-      "number": "428",
-      "title": "耶穌與我同行"
-    },
-    {
-      "number": "429",
-      "title": "我必親見榮耀主"
-    },
-    {
-      "number": "430",
-      "title": "我們聚集生命河邊"
-    },
-    {
-      "number": "431",
-      "title": "全備的愛"
-    },
-    {
-      "number": "432",
-      "title": "祂大能手扶持我"
-    },
-    {
-      "number": "433",
-      "title": "奇妙平安"
-    },
-    {
-      "number": "434",
-      "title": "在那榮耀國度"
-    },
-    {
-      "number": "435",
-      "title": "歌頌救贖恩主"
-    },
-    {
-      "number": "436",
-      "title": "我一生蒙救主引導"
-    },
-    {
-      "number": "437",
-      "title": "誰正守候在門外？"
-    },
-    {
-      "number": "438",
-      "title": "頌主創造美好"
-    },
-    {
-      "number": "439",
-      "title": "時刻交託主"
-    },
-    {
-      "number": "440",
-      "title": "在主愛中團契"
-    },
-    {
-      "number": "441",
-      "title": "我立下決心"
-    },
-    {
-      "number": "442",
-      "title": "神一路引領"
-    },
-    {
-      "number": "443",
-      "title": "榮耀永歸耶穌"
-    },
-    {
-      "number": "444",
-      "title": "耶穌聖名最甜美"
-    },
-    {
-      "number": "445",
-      "title": "恩典大過我罪愆"
-    },
-    {
-      "number": "446",
-      "title": "頌讚主聖名"
-    },
-    {
-      "number": "447",
-      "title": "高唱和散那"
-    },
-    {
-      "number": "448",
-      "title": "歡欣，主為君王"
-    },
-    {
-      "number": "449",
-      "title": "何能如此"
-    },
-    {
-      "number": "450",
-      "title": "吹響征戰號"
-    },
-    {
-      "number": "451",
-      "title": "藏身主懷"
-    },
-    {
-      "number": "452",
-      "title": "我願常見祢"
-    },
-    {
-      "number": "453",
-      "title": "我是君王後嗣"
-    },
-    {
-      "number": "454",
-      "title": "以馬內利，懇求降臨"
-    },
-    {
-      "number": "455",
-      "title": "最美聖名"
-    },
-    {
-      "number": "456",
-      "title": "歸家"
-    },
-    {
-      "number": "457",
-      "title": "耶穌奇妙的救恩"
-    },
-    {
-      "number": "458",
-      "title": "你在那裡?"
-    },
-    {
-      "number": "459",
-      "title": "約但河畔"
-    },
-    {
-      "number": "460",
-      "title": "願主賜福保佑你"
-    },
-    {
-      "number": "461",
-      "title": "快拋救生索"
-    },
-    {
-      "number": "462",
-      "title": "哈利路亞，奇妙君王"
-    },
-    {
-      "number": "463",
-      "title": "當歡欣喜樂"
-    },
-    {
-      "number": "464",
-      "title": "先賢所信"
-    },
-    {
-      "number": "465",
-      "title": "到各山嶺去傳揚"
-    },
-    {
-      "number": "466",
-      "title": "讚美耶穌基督"
-    },
-    {
-      "number": "467",
-      "title": "主的應許"
-    },
-    {
-      "number": "468",
-      "title": "寶貴回憶"
-    },
-    {
-      "number": "469",
-      "title": "靈恩大會"
-    }
-  ]
-}
+[
+  {
+    "number": "001",
+    "title": "頌讚獨一真神"
+  },
+  {
+    "number": "002",
+    "title": "讚美聖父"
+  },
+  {
+    "number": "003",
+    "title": "亞伯拉罕的神"
+  },
+  {
+    "number": "004",
+    "title": "讚美天父"
+  },
+  {
+    "number": "005",
+    "title": "萬有讚美天父"
+  },
+  {
+    "number": "006",
+    "title": "頌主造化大功"
+  },
+  {
+    "number": "007",
+    "title": "萬有齊頌主"
+  },
+  {
+    "number": "008",
+    "title": "當向神歌頌"
+  },
+  {
+    "number": "009",
+    "title": "向主歡呼"
+  },
+  {
+    "number": "010",
+    "title": "榮耀歸耶穌"
+  },
+  {
+    "number": "011",
+    "title": "在主內頂快樂"
+  },
+  {
+    "number": "012",
+    "title": "耶穌尊名"
+  },
+  {
+    "number": "013",
+    "title": "無人能比耶穌"
+  },
+  {
+    "number": "014",
+    "title": "萬王之王"
+  },
+  {
+    "number": "015",
+    "title": "頌讚耶穌"
+  },
+  {
+    "number": "016",
+    "title": "敬拜天地主宰"
+  },
+  {
+    "number": "017",
+    "title": "頌讚主慈愛"
+  },
+  {
+    "number": "018",
+    "title": "歌頌主恩"
+  },
+  {
+    "number": "019",
+    "title": "和散那"
+  },
+  {
+    "number": "020",
+    "title": "尊主為王"
+  },
+  {
+    "number": "021",
+    "title": "美哉，主耶穌"
+  },
+  {
+    "number": "022",
+    "title": "讚美經訓"
+  },
+  {
+    "number": "023",
+    "title": "聖經寶貴"
+  },
+  {
+    "number": "024",
+    "title": "生命之道"
+  },
+  {
+    "number": "025",
+    "title": "神言純潔真誠"
+  },
+  {
+    "number": "026",
+    "title": "求主向我發言"
+  },
+  {
+    "number": "027",
+    "title": "耶穌愛我"
+  },
+  {
+    "number": "028",
+    "title": "耶穌仁愛"
+  },
+  {
+    "number": "029",
+    "title": "主尋亡羊"
+  },
+  {
+    "number": "030",
+    "title": "妙愛找我"
+  },
+  {
+    "number": "031",
+    "title": "主全為我"
+  },
+  {
+    "number": "032",
+    "title": "耶穌肯收納罪人"
+  },
+  {
+    "number": "033",
+    "title": "到新耶路撒冷"
+  },
+  {
+    "number": "034",
+    "title": "耶穌恩召"
+  },
+  {
+    "number": "035",
+    "title": "雨夜過後見光明"
+  },
+  {
+    "number": "036",
+    "title": "微聲盼望"
+  },
+  {
+    "number": "037",
+    "title": "硃紅罪變如雪"
+  },
+  {
+    "number": "038",
+    "title": "我聞耶穌呼聲"
+  },
+  {
+    "number": "039",
+    "title": "惟獨主血有效"
+  },
+  {
+    "number": "040",
+    "title": "主之寶血"
+  },
+  {
+    "number": "041",
+    "title": "主血有權能"
+  },
+  {
+    "number": "042",
+    "title": "羔羊寶血"
+  },
+  {
+    "number": "043",
+    "title": "寶血洗淨"
+  },
+  {
+    "number": "044",
+    "title": "惟有主能救我"
+  },
+  {
+    "number": "045",
+    "title": "搭救罪人"
+  },
+  {
+    "number": "046",
+    "title": "主開心眼"
+  },
+  {
+    "number": "047",
+    "title": "耶穌救我"
+  },
+  {
+    "number": "048",
+    "title": "救恩成在十架"
+  },
+  {
+    "number": "049",
+    "title": "主拯救我"
+  },
+  {
+    "number": "050",
+    "title": "惟獨耶穌"
+  },
+  {
+    "number": "051(甲)",
+    "numbercode": "051a",
+    "title": "萬古靈磐"
+  },
+  {
+    "number": "051(乙)",
+    "numbercode": "051b",
+    "title": "萬古靈磐"
+  },
+  {
+    "number": "052",
+    "title": "主恩浩大"
+  },
+  {
+    "number": "053",
+    "title": "天父慈仁"
+  },
+  {
+    "number": "054",
+    "title": "離暗就光"
+  },
+  {
+    "number": "055",
+    "title": "蒙主釋放"
+  },
+  {
+    "number": "056",
+    "title": "禧年已到"
+  },
+  {
+    "number": "057",
+    "title": "我罪極重"
+  },
+  {
+    "number": "058",
+    "title": "耶穌領我"
+  },
+  {
+    "number": "059",
+    "title": "求主引導"
+  },
+  {
+    "number": "060",
+    "title": "行走天路"
+  },
+  {
+    "number": "061",
+    "title": "求主引路"
+  },
+  {
+    "number": "062",
+    "title": "願主偕行"
+  },
+  {
+    "number": "063",
+    "title": "願主領路"
+  },
+  {
+    "number": "064",
+    "title": "真光領導"
+  },
+  {
+    "number": "065",
+    "title": "靠近主"
+  },
+  {
+    "number": "066",
+    "title": "主，我等候祢"
+  },
+  {
+    "number": "067",
+    "title": "求主指引我路"
+  },
+  {
+    "number": "068",
+    "title": "求主攜我手"
+  },
+  {
+    "number": "069",
+    "title": "求主掌我舵"
+  },
+  {
+    "number": "070",
+    "title": "主有萬福"
+  },
+  {
+    "number": "071",
+    "title": "耶穌我主"
+  },
+  {
+    "number": "072",
+    "title": "萬福之主"
+  },
+  {
+    "number": "073",
+    "title": "賜福救主"
+  },
+  {
+    "number": "074",
+    "title": "救主降生"
+  },
+  {
+    "number": "075",
+    "title": "基督降生"
+  },
+  {
+    "number": "076",
+    "title": "耶穌受死"
+  },
+  {
+    "number": "077",
+    "title": "高舉十架"
+  },
+  {
+    "number": "078",
+    "title": "樂主復活"
+  },
+  {
+    "number": "079",
+    "title": "耶穌復活頌"
+  },
+  {
+    "number": "080",
+    "title": "主已戰勝死亡"
+  },
+  {
+    "number": "081",
+    "title": "耶穌再臨"
+  },
+  {
+    "number": "082",
+    "title": "儆醒預備"
+  },
+  {
+    "number": "083",
+    "title": "耶穌來時"
+  },
+  {
+    "number": "084",
+    "title": "歡迎我王"
+  },
+  {
+    "number": "085",
+    "title": "主快再來"
+  },
+  {
+    "number": "086",
+    "title": "善惡有報"
+  },
+  {
+    "number": "087",
+    "title": "審判大日"
+  },
+  {
+    "number": "088",
+    "title": "救主恩功"
+  },
+  {
+    "number": "089",
+    "title": "主恩更多"
+  },
+  {
+    "number": "090",
+    "title": "數算恩典"
+  },
+  {
+    "number": "091",
+    "title": "想念主愛"
+  },
+  {
+    "number": "092",
+    "title": "病癒感恩"
+  },
+  {
+    "number": "093",
+    "title": "更新感恩"
+  },
+  {
+    "number": "094",
+    "title": "主恩長存"
+  },
+  {
+    "number": "095",
+    "title": "受膏的君王"
+  },
+  {
+    "number": "096",
+    "title": "奇異恩典"
+  },
+  {
+    "number": "097",
+    "title": "我主離開象牙宮"
+  },
+  {
+    "number": "098",
+    "title": "當我思量十架"
+  },
+  {
+    "number": "099",
+    "title": "愛主更深"
+  },
+  {
+    "number": "100",
+    "title": "捨己為主"
+  },
+  {
+    "number": "101",
+    "title": "專愛耶穌"
+  },
+  {
+    "number": "102",
+    "title": "為主而活"
+  },
+  {
+    "number": "103",
+    "title": "快親近主"
+  },
+  {
+    "number": "104",
+    "title": "深愛耶穌"
+  },
+  {
+    "number": "105",
+    "title": "為主捨命"
+  },
+  {
+    "number": "106",
+    "title": "我是耶穌門徒"
+  },
+  {
+    "number": "107",
+    "title": "容我與主同行"
+  },
+  {
+    "number": "108",
+    "title": "跟從救主"
+  },
+  {
+    "number": "109",
+    "title": "踐主跡行"
+  },
+  {
+    "number": "110",
+    "title": "撇物從主"
+  },
+  {
+    "number": "111",
+    "title": "跟隨救主"
+  },
+  {
+    "number": "112",
+    "title": "我跟隨主"
+  },
+  {
+    "number": "113",
+    "title": "奉獻會堂"
+  },
+  {
+    "number": "114",
+    "title": "感恩奉獻"
+  },
+  {
+    "number": "115",
+    "title": "會堂落成"
+  },
+  {
+    "number": "116",
+    "title": "獻上身心"
+  },
+  {
+    "number": "117",
+    "title": "奉獻祈納"
+  },
+  {
+    "number": "118",
+    "title": "奉獻全生"
+  },
+  {
+    "number": "119",
+    "title": "都歸耶穌我救主"
+  },
+  {
+    "number": "120",
+    "title": "奉獻所有"
+  },
+  {
+    "number": "121",
+    "title": "我獻何物給耶穌？"
+  },
+  {
+    "number": "122",
+    "title": "彼此相愛"
+  },
+  {
+    "number": "123",
+    "title": "聖徒送行"
+  },
+  {
+    "number": "124(甲)",
+    "numbercode": "124a",
+    "title": "實行愛心"
+  },
+  {
+    "number": "124(乙)",
+    "numbercode": "124b",
+    "title": "實行愛心"
+  },
+  {
+    "number": "125",
+    "title": "別離詩"
+  },
+  {
+    "number": "126",
+    "title": "兄弟相愛"
+  },
+  {
+    "number": "127",
+    "title": "切實相愛"
+  },
+  {
+    "number": "128",
+    "title": "快樂聖日"
+  },
+  {
+    "number": "129",
+    "title": "紀念聖日"
+  },
+  {
+    "number": "130",
+    "title": "安息聖日"
+  },
+  {
+    "number": "131",
+    "title": "樂守聖日"
+  },
+  {
+    "number": "132(甲)",
+    "numbercode": "132a",
+    "title": "求主蔭庇"
+  },
+  {
+    "number": "132(乙)",
+    "numbercode": "132b",
+    "title": "求主蔭庇"
+  },
+  {
+    "number": "133",
+    "title": "耶穌不改變"
+  },
+  {
+    "number": "134",
+    "title": "仰望救主"
+  },
+  {
+    "number": "135",
+    "title": "為甚麼忙?"
+  },
+  {
+    "number": "136",
+    "title": "我知所信的是誰"
+  },
+  {
+    "number": "137",
+    "title": "主是我良友"
+  },
+  {
+    "number": "138",
+    "title": "我所信有根基"
+  },
+  {
+    "number": "139",
+    "title": "聞主過路"
+  },
+  {
+    "number": "140",
+    "title": "救主明白你憂傷"
+  },
+  {
+    "number": "141",
+    "title": "永樂或永苦？"
+  },
+  {
+    "number": "142",
+    "title": "靠主消除憂傷"
+  },
+  {
+    "number": "143",
+    "title": "我要投靠主"
+  },
+  {
+    "number": "144",
+    "title": "專心仰賴主"
+  },
+  {
+    "number": "145",
+    "title": "倚靠耶穌"
+  },
+  {
+    "number": "146",
+    "title": "時刻靠主"
+  },
+  {
+    "number": "147",
+    "title": "先求神國神義"
+  },
+  {
+    "number": "148",
+    "title": "耶穌牧我"
+  },
+  {
+    "number": "149",
+    "title": "安息在主膀臂中"
+  },
+  {
+    "number": "150",
+    "title": "善牧看顧"
+  },
+  {
+    "number": "151",
+    "title": "天父必看顧你"
+  },
+  {
+    "number": "152",
+    "title": "主必預備"
+  },
+  {
+    "number": "153",
+    "title": "時刻交託主"
+  },
+  {
+    "number": "154",
+    "title": "耶穌是我堅固保障"
+  },
+  {
+    "number": "155",
+    "title": "主常看顧我"
+  },
+  {
+    "number": "156",
+    "title": "與主同行"
+  },
+  {
+    "number": "157",
+    "title": "神國在心"
+  },
+  {
+    "number": "158",
+    "title": "走在主路上"
+  },
+  {
+    "number": "159",
+    "title": "主賜真平安"
+  },
+  {
+    "number": "160",
+    "title": "真光在心"
+  },
+  {
+    "number": "161",
+    "title": "在主蔭下"
+  },
+  {
+    "number": "162",
+    "title": "主負我重擔"
+  },
+  {
+    "number": "163",
+    "title": "我靈魂永安樂"
+  },
+  {
+    "number": "164",
+    "title": "主恩夠用"
+  },
+  {
+    "number": "165",
+    "title": "耶穌懷抱我"
+  },
+  {
+    "number": "166",
+    "title": "在主蔭庇之下"
+  },
+  {
+    "number": "167",
+    "title": "十架精兵"
+  },
+  {
+    "number": "168",
+    "title": "精兵前進"
+  },
+  {
+    "number": "169",
+    "title": "善惡對敵"
+  },
+  {
+    "number": "170",
+    "title": "為主勇往"
+  },
+  {
+    "number": "171",
+    "title": "教會惟一根基"
+  },
+  {
+    "number": "172",
+    "title": "你該得勝"
+  },
+  {
+    "number": "173",
+    "title": "十架旌旗"
+  },
+  {
+    "number": "174",
+    "title": "真教會必興起"
+  },
+  {
+    "number": "175",
+    "title": "百折不回"
+  },
+  {
+    "number": "176",
+    "title": "常常有勝利"
+  },
+  {
+    "number": "177",
+    "title": "切莫順從誘惑"
+  },
+  {
+    "number": "178",
+    "title": "趁還有今天"
+  },
+  {
+    "number": "179",
+    "title": "預備進天國"
+  },
+  {
+    "number": "180",
+    "title": "永生門路"
+  },
+  {
+    "number": "181",
+    "title": "我必前進"
+  },
+  {
+    "number": "182",
+    "title": "往前走"
+  },
+  {
+    "number": "183",
+    "title": "勇往直前"
+  },
+  {
+    "number": "184",
+    "title": "奔跑天路"
+  },
+  {
+    "number": "185",
+    "title": "思慕天家"
+  },
+  {
+    "number": "186",
+    "title": "我家乃在天"
+  },
+  {
+    "number": "187",
+    "title": "來到美地"
+  },
+  {
+    "number": "188",
+    "title": "榮歸天家"
+  },
+  {
+    "number": "189",
+    "title": "天城美景"
+  },
+  {
+    "number": "190",
+    "title": "天國的人"
+  },
+  {
+    "number": "191",
+    "title": "我家在天"
+  },
+  {
+    "number": "192",
+    "title": "十架領路"
+  },
+  {
+    "number": "193",
+    "title": "榮耀天國"
+  },
+  {
+    "number": "194",
+    "title": "安息在天家"
+  },
+  {
+    "number": "195",
+    "title": "羨慕福地"
+  },
+  {
+    "number": "196",
+    "title": "榮美福地"
+  },
+  {
+    "number": "197",
+    "title": "非金也非銀"
+  },
+  {
+    "number": "198",
+    "title": "靠主領回天家"
+  },
+  {
+    "number": "199",
+    "title": "天上快樂家"
+  },
+  {
+    "number": "200",
+    "title": "思慕天鄉"
+  },
+  {
+    "number": "201",
+    "title": "永遠的榮耀"
+  },
+  {
+    "number": "202",
+    "title": "天上安樂處"
+  },
+  {
+    "number": "203",
+    "title": "百合花"
+  },
+  {
+    "number": "204",
+    "title": "因信有盼望"
+  },
+  {
+    "number": "205",
+    "title": "在基督裡必復活"
+  },
+  {
+    "number": "206",
+    "title": "我必親見主面"
+  },
+  {
+    "number": "207",
+    "title": "思念主來"
+  },
+  {
+    "number": "208",
+    "title": "聖徒被提"
+  },
+  {
+    "number": "209",
+    "title": "我必當面見主"
+  },
+  {
+    "number": "210",
+    "title": "當我行完今生路"
+  },
+  {
+    "number": "211",
+    "title": "天父監察"
+  },
+  {
+    "number": "212",
+    "title": "為主發光"
+  },
+  {
+    "number": "213",
+    "title": "積少成多"
+  },
+  {
+    "number": "214",
+    "title": "八福頌"
+  },
+  {
+    "number": "215",
+    "title": "真教會美德"
+  },
+  {
+    "number": "216",
+    "title": "聖徒美德"
+  },
+  {
+    "number": "217",
+    "title": "力行主道"
+  },
+  {
+    "number": "218",
+    "title": "聖靈佳果"
+  },
+  {
+    "number": "219",
+    "title": "隨處發光"
+  },
+  {
+    "number": "220",
+    "title": "火煉精金"
+  },
+  {
+    "number": "221",
+    "title": "克制情慾"
+  },
+  {
+    "number": "222",
+    "title": "清心有福"
+  },
+  {
+    "number": "223",
+    "title": "選民靈歌"
+  },
+  {
+    "number": "224",
+    "title": "求主察看"
+  },
+  {
+    "number": "225",
+    "title": "順從聖靈"
+  },
+  {
+    "number": "226",
+    "title": "願成主旨"
+  },
+  {
+    "number": "227",
+    "title": "聽命有福"
+  },
+  {
+    "number": "228",
+    "title": "遵命有福"
+  },
+  {
+    "number": "229",
+    "title": "謹守十架"
+  },
+  {
+    "number": "230",
+    "title": "義人有福"
+  },
+  {
+    "number": "231",
+    "title": "照主所願"
+  },
+  {
+    "number": "232",
+    "title": "要同耶穌一樣"
+  },
+  {
+    "number": "233",
+    "title": "聯屬耶穌"
+  },
+  {
+    "number": "234",
+    "title": "與主日近"
+  },
+  {
+    "number": "235",
+    "title": "主我一體"
+  },
+  {
+    "number": "236",
+    "title": "我屬耶穌"
+  },
+  {
+    "number": "237",
+    "title": "耶穌住在我心"
+  },
+  {
+    "number": "238",
+    "title": "來居我心，主耶穌！"
+  },
+  {
+    "number": "239",
+    "title": "求主同住"
+  },
+  {
+    "number": "240",
+    "title": "與主同樂"
+  },
+  {
+    "number": "241",
+    "title": "我生命的君王"
+  },
+  {
+    "number": "242",
+    "title": "主在門外等候"
+  },
+  {
+    "number": "243",
+    "title": "引我更親近"
+  },
+  {
+    "number": "244",
+    "title": "主，我願像祢！"
+  },
+  {
+    "number": "245",
+    "title": "求主密相契"
+  },
+  {
+    "number": "246",
+    "title": "懇求聖靈"
+  },
+  {
+    "number": "247",
+    "title": "聖靈權能"
+  },
+  {
+    "number": "248",
+    "title": "我要求聖靈"
+  },
+  {
+    "number": "249",
+    "title": "靈洗各人"
+  },
+  {
+    "number": "250",
+    "title": "從新得力"
+  },
+  {
+    "number": "251",
+    "title": "聖靈的洗"
+  },
+  {
+    "number": "252",
+    "title": "渴慕聖靈充滿"
+  },
+  {
+    "number": "253",
+    "title": "聖靈已來"
+  },
+  {
+    "number": "254",
+    "title": "方言寶貴"
+  },
+  {
+    "number": "255",
+    "title": "主今夜賜福"
+  },
+  {
+    "number": "256",
+    "title": "恩雨大降"
+  },
+  {
+    "number": "257",
+    "title": "儆醒祈禱"
+  },
+  {
+    "number": "258",
+    "title": "禁食祈禱"
+  },
+  {
+    "number": "259",
+    "title": "恆切禱告"
+  },
+  {
+    "number": "260",
+    "title": "清晨頌主"
+  },
+  {
+    "number": "261",
+    "title": "晚禱感恩"
+  },
+  {
+    "number": "262",
+    "title": "與神靈交"
+  },
+  {
+    "number": "263",
+    "title": "耶穌恩友"
+  },
+  {
+    "number": "264",
+    "title": "求主垂憐"
+  },
+  {
+    "number": "265",
+    "title": "快告訴耶穌"
+  },
+  {
+    "number": "266",
+    "title": "傳揚福音"
+  },
+  {
+    "number": "267",
+    "title": "聽主差遣"
+  },
+  {
+    "number": "268",
+    "title": "聽從主呼召"
+  },
+  {
+    "number": "269",
+    "title": "聞主呼召我"
+  },
+  {
+    "number": "270",
+    "title": "要遙遠地方"
+  },
+  {
+    "number": "271",
+    "title": "不要懼怕"
+  },
+  {
+    "number": "272",
+    "title": "保惠師已經到"
+  },
+  {
+    "number": "273",
+    "title": "大喜信息"
+  },
+  {
+    "number": "274(甲)",
+    "numbercode": "274a",
+    "title": "晚雨降臨"
+  },
+  {
+    "number": "274(乙)",
+    "numbercode": "274b",
+    "title": "福音要遍傳"
+  },
+  {
+    "number": "275",
+    "title": "禾捆收回家"
+  },
+  {
+    "number": "276",
+    "title": "來聽福音"
+  },
+  {
+    "number": "277",
+    "title": "喜傳福音"
+  },
+  {
+    "number": "278",
+    "title": "主拯救"
+  },
+  {
+    "number": "279",
+    "title": "敞開恩門"
+  },
+  {
+    "number": "280",
+    "title": "廣傳福音"
+  },
+  {
+    "number": "281",
+    "title": "嘆未得人"
+  },
+  {
+    "number": "282",
+    "title": "努力工作"
+  },
+  {
+    "number": "283",
+    "title": "為主收莊稼"
+  },
+  {
+    "number": "284",
+    "title": "發出福音真光"
+  },
+  {
+    "number": "285",
+    "title": "開船入深海"
+  },
+  {
+    "number": "286",
+    "title": "傳佈救恩"
+  },
+  {
+    "number": "287",
+    "title": "為耶穌勞力"
+  },
+  {
+    "number": "288",
+    "title": "趕快工作"
+  },
+  {
+    "number": "289",
+    "title": "派任聖職"
+  },
+  {
+    "number": "290",
+    "title": "按立禮"
+  },
+  {
+    "number": "291",
+    "title": "洗罪泉源"
+  },
+  {
+    "number": "292",
+    "title": "贖罪妙恩"
+  },
+  {
+    "number": "293",
+    "title": "洗淨罪愆"
+  },
+  {
+    "number": "294",
+    "title": "我來就祢"
+  },
+  {
+    "number": "295",
+    "title": "洗腳禮"
+  },
+  {
+    "number": "296(甲)",
+    "numbercode": "296a",
+    "title": "紀念主死"
+  },
+  {
+    "number": "296(乙)",
+    "numbercode": "296b",
+    "title": "豈能讓主獨背十架"
+  },
+  {
+    "number": "297",
+    "title": "為主我立何志?"
+  },
+  {
+    "number": "298",
+    "title": "聖徒婚禮"
+  },
+  {
+    "number": "299",
+    "title": "婚禮祝歌"
+  },
+  {
+    "number": "300",
+    "title": "祝新婚之樂"
+  },
+  {
+    "number": "301",
+    "title": "人生不長"
+  },
+  {
+    "number": "302",
+    "title": "安葬"
+  },
+  {
+    "number": "303",
+    "title": "天國來了"
+  },
+  {
+    "number": "304",
+    "title": "浪子回家"
+  },
+  {
+    "number": "305",
+    "title": "儆醒自責"
+  },
+  {
+    "number": "306",
+    "title": "悔改重生"
+  },
+  {
+    "number": "307",
+    "title": "回來罷！"
+  },
+  {
+    "number": "308",
+    "title": "天父接納我"
+  },
+  {
+    "number": "309",
+    "title": "新年祈望"
+  },
+  {
+    "number": "310",
+    "title": "年終感頌"
+  },
+  {
+    "number": "311",
+    "title": "一齊來歌頌"
+  },
+  {
+    "number": "312",
+    "title": "齊聚主前"
+  },
+  {
+    "number": "313",
+    "title": "這世界的光是耶穌"
+  },
+  {
+    "number": "314",
+    "title": "耶穌呼召"
+  },
+  {
+    "number": "315",
+    "title": "永世的君王"
+  },
+  {
+    "number": "316",
+    "title": "敬拜榮耀王"
+  },
+  {
+    "number": "317",
+    "title": "我救主已來到"
+  },
+  {
+    "number": "318",
+    "title": "安穩港口"
+  },
+  {
+    "number": "319",
+    "title": "敬拜基督新生王"
+  },
+  {
+    "number": "320",
+    "title": "天使歌唱"
+  },
+  {
+    "number": "321",
+    "title": "信徒齊來頌主"
+  },
+  {
+    "number": "322",
+    "title": "榮耀歸於天父"
+  },
+  {
+    "number": "323",
+    "title": "獻上千萬榮冠"
+  },
+  {
+    "number": "324",
+    "title": "慈愛的救主"
+  },
+  {
+    "number": "325",
+    "title": "救主耶穌是我至寶"
+  },
+  {
+    "number": "326",
+    "title": "歡唱詠不停"
+  },
+  {
+    "number": "327",
+    "title": "多認識耶穌"
+  },
+  {
+    "number": "328",
+    "title": "讚美真神創造主"
+  },
+  {
+    "number": "329",
+    "title": "天父我神"
+  },
+  {
+    "number": "330",
+    "title": "奇妙平安由神來"
+  },
+  {
+    "number": "331",
+    "title": "聖靈信實保惠師"
+  },
+  {
+    "number": "332",
+    "title": "真神大愛"
+  },
+  {
+    "number": "333",
+    "title": "欣逢聖日"
+  },
+  {
+    "number": "334",
+    "title": "耶穌，沙崙玫瑰"
+  },
+  {
+    "number": "335",
+    "title": "真希奇！我主的慈愛"
+  },
+  {
+    "number": "336",
+    "title": "耶穌是否仍然看顧我"
+  },
+  {
+    "number": "337",
+    "title": "耶穌揀選我"
+  },
+  {
+    "number": "338",
+    "title": "祂拯救我"
+  },
+  {
+    "number": "339",
+    "title": "耶穌是我一切所有"
+  },
+  {
+    "number": "340",
+    "title": "奇妙的救主"
+  },
+  {
+    "number": "341",
+    "title": "讓主耶穌進入你心"
+  },
+  {
+    "number": "342",
+    "title": "你的光當照耀"
+  },
+  {
+    "number": "343",
+    "title": "愛拯救我"
+  },
+  {
+    "number": "344",
+    "title": "暴風雨中的避難所"
+  },
+  {
+    "number": "345",
+    "title": "深哉、深哉，耶穌的愛"
+  },
+  {
+    "number": "346",
+    "title": "耶穌溫柔慈聲呼喚"
+  },
+  {
+    "number": "347",
+    "title": "萬古磐石藏身所"
+  },
+  {
+    "number": "348",
+    "title": "祂是奇妙救主"
+  },
+  {
+    "number": "349",
+    "title": "救主正在等待"
+  },
+  {
+    "number": "350",
+    "title": "主比生命更寶貴"
+  },
+  {
+    "number": "351",
+    "title": "每一天"
+  },
+  {
+    "number": "352",
+    "title": "主藏我靈"
+  },
+  {
+    "number": "353",
+    "title": "在主十架下"
+  },
+  {
+    "number": "354",
+    "title": "只要信祂"
+  },
+  {
+    "number": "355",
+    "title": "平安永在我心"
+  },
+  {
+    "number": "356",
+    "title": "信心使我得勝"
+  },
+  {
+    "number": "357",
+    "title": "主耶和華是我牧者"
+  },
+  {
+    "number": "358",
+    "title": "基督活在我心"
+  },
+  {
+    "number": "359",
+    "title": "同心前往錫安"
+  },
+  {
+    "number": "360",
+    "title": "你心可有住處為主？"
+  },
+  {
+    "number": "361",
+    "title": "領我到髑髏地"
+  },
+  {
+    "number": "362",
+    "title": "求主擘生命餅"
+  },
+  {
+    "number": "363",
+    "title": "堅立在應許上"
+  },
+  {
+    "number": "364",
+    "title": "主話語深藏我心"
+  },
+  {
+    "number": "365",
+    "title": "救主受難"
+  },
+  {
+    "number": "366",
+    "title": "照主旨意行"
+  },
+  {
+    "number": "367",
+    "title": "祂看顧麻雀"
+  },
+  {
+    "number": "368",
+    "title": "快傳福音"
+  },
+  {
+    "number": "369",
+    "title": "在各各他"
+  },
+  {
+    "number": "370",
+    "title": "主幫助我們"
+  },
+  {
+    "number": "371",
+    "title": "面臨試煉時候"
+  },
+  {
+    "number": "372",
+    "title": "降百福甘霖"
+  },
+  {
+    "number": "373",
+    "title": "只要相信"
+  },
+  {
+    "number": "374",
+    "title": "求永恆君王前導"
+  },
+  {
+    "number": "375",
+    "title": "主呼召你"
+  },
+  {
+    "number": "376",
+    "title": "堅固磐石"
+  },
+  {
+    "number": "377",
+    "title": "主常常顧念我"
+  },
+  {
+    "number": "378",
+    "title": "信靠順服"
+  },
+  {
+    "number": "379",
+    "title": "轉眼仰望耶穌"
+  },
+  {
+    "number": "380",
+    "title": "我主是我生命標竿"
+  },
+  {
+    "number": "381",
+    "title": "我何等愛耶穌"
+  },
+  {
+    "number": "382",
+    "title": "我靈安穩"
+  },
+  {
+    "number": "383",
+    "title": "將有一天"
+  },
+  {
+    "number": "384",
+    "title": "我願效法耶穌"
+  },
+  {
+    "number": "385",
+    "title": "救贖"
+  },
+  {
+    "number": "386",
+    "title": "我得一友"
+  },
+  {
+    "number": "387",
+    "title": "求主對我述說"
+  },
+  {
+    "number": "388",
+    "title": "靠近耶穌慈懷"
+  },
+  {
+    "number": "389",
+    "title": "親近，更親近"
+  },
+  {
+    "number": "390",
+    "title": "主！我願更親近"
+  },
+  {
+    "number": "391",
+    "title": "永不孤單"
+  },
+  {
+    "number": "392",
+    "title": "任主差派"
+  },
+  {
+    "number": "393",
+    "title": "聽！良牧慈聲"
+  },
+  {
+    "number": "394",
+    "title": "感謝神"
+  },
+  {
+    "number": "395",
+    "title": "向高處行"
+  },
+  {
+    "number": "396",
+    "title": "我要真誠"
+  },
+  {
+    "number": "397",
+    "title": "何不今日歸耶穌"
+  },
+  {
+    "number": "398",
+    "title": "為主而活"
+  },
+  {
+    "number": "399",
+    "title": "主，我願做祢門徒"
+  },
+  {
+    "number": "400",
+    "title": "我深願更像耶穌"
+  },
+  {
+    "number": "401",
+    "title": "須用功夫成聖"
+  },
+  {
+    "number": "402",
+    "title": "神的道路"
+  },
+  {
+    "number": "403",
+    "title": "任憑主旨意"
+  },
+  {
+    "number": "404",
+    "title": "讚美救主"
+  },
+  {
+    "number": "405",
+    "title": "你是否已禱告"
+  },
+  {
+    "number": "406",
+    "title": "要告訴耶穌"
+  },
+  {
+    "number": "407",
+    "title": "在花園裡"
+  },
+  {
+    "number": "408",
+    "title": "若主今日再臨"
+  },
+  {
+    "number": "409",
+    "title": "我可願作十架精兵"
+  },
+  {
+    "number": "410",
+    "title": "再等不多時"
+  },
+  {
+    "number": "411",
+    "title": "美麗的禱告花園"
+  },
+  {
+    "number": "412",
+    "title": "寶貴禱告良辰"
+  },
+  {
+    "number": "413",
+    "title": "我們同心聚集"
+  },
+  {
+    "number": "414",
+    "title": "恩主與我同在"
+  },
+  {
+    "number": "415",
+    "title": "獻上至好的"
+  },
+  {
+    "number": "416",
+    "title": "你可情願？"
+  },
+  {
+    "number": "417",
+    "title": "耶穌領我回家"
+  },
+  {
+    "number": "418",
+    "title": "一切獻在壇上"
+  },
+  {
+    "number": "419",
+    "title": "因我得福"
+  },
+  {
+    "number": "420",
+    "title": "奉獻與祢"
+  },
+  {
+    "number": "421",
+    "title": "請來赴宴"
+  },
+  {
+    "number": "422",
+    "title": "我錨堅固牢靠"
+  },
+  {
+    "number": "423",
+    "title": "對我述說耶穌故事"
+  },
+  {
+    "number": "424",
+    "title": "我王之事工"
+  },
+  {
+    "number": "425",
+    "title": "我屬我王"
+  },
+  {
+    "number": "426",
+    "title": "何等奇妙的救主"
+  },
+  {
+    "number": "427",
+    "title": "有一故事傳給萬邦"
+  },
+  {
+    "number": "428",
+    "title": "耶穌與我同行"
+  },
+  {
+    "number": "429",
+    "title": "我必親見榮耀主"
+  },
+  {
+    "number": "430",
+    "title": "我們聚集生命河邊"
+  },
+  {
+    "number": "431",
+    "title": "全備的愛"
+  },
+  {
+    "number": "432",
+    "title": "祂大能手扶持我"
+  },
+  {
+    "number": "433",
+    "title": "奇妙平安"
+  },
+  {
+    "number": "434",
+    "title": "在那榮耀國度"
+  },
+  {
+    "number": "435",
+    "title": "歌頌救贖恩主"
+  },
+  {
+    "number": "436",
+    "title": "我一生蒙救主引導"
+  },
+  {
+    "number": "437",
+    "title": "誰正守候在門外？"
+  },
+  {
+    "number": "438",
+    "title": "頌主創造美好"
+  },
+  {
+    "number": "439",
+    "title": "時刻交託主"
+  },
+  {
+    "number": "440",
+    "title": "在主愛中團契"
+  },
+  {
+    "number": "441",
+    "title": "我立下決心"
+  },
+  {
+    "number": "442",
+    "title": "神一路引領"
+  },
+  {
+    "number": "443",
+    "title": "榮耀永歸耶穌"
+  },
+  {
+    "number": "444",
+    "title": "耶穌聖名最甜美"
+  },
+  {
+    "number": "445",
+    "title": "恩典大過我罪愆"
+  },
+  {
+    "number": "446",
+    "title": "頌讚主聖名"
+  },
+  {
+    "number": "447",
+    "title": "高唱和散那"
+  },
+  {
+    "number": "448",
+    "title": "歡欣，主為君王"
+  },
+  {
+    "number": "449",
+    "title": "何能如此"
+  },
+  {
+    "number": "450",
+    "title": "吹響征戰號"
+  },
+  {
+    "number": "451",
+    "title": "藏身主懷"
+  },
+  {
+    "number": "452",
+    "title": "我願常見祢"
+  },
+  {
+    "number": "453",
+    "title": "我是君王後嗣"
+  },
+  {
+    "number": "454",
+    "title": "以馬內利，懇求降臨"
+  },
+  {
+    "number": "455",
+    "title": "最美聖名"
+  },
+  {
+    "number": "456",
+    "title": "歸家"
+  },
+  {
+    "number": "457",
+    "title": "耶穌奇妙的救恩"
+  },
+  {
+    "number": "458",
+    "title": "你在那裡?"
+  },
+  {
+    "number": "459",
+    "title": "約但河畔"
+  },
+  {
+    "number": "460",
+    "title": "願主賜福保佑你"
+  },
+  {
+    "number": "461",
+    "title": "快拋救生索"
+  },
+  {
+    "number": "462",
+    "title": "哈利路亞，奇妙君王"
+  },
+  {
+    "number": "463",
+    "title": "當歡欣喜樂"
+  },
+  {
+    "number": "464",
+    "title": "先賢所信"
+  },
+  {
+    "number": "465",
+    "title": "到各山嶺去傳揚"
+  },
+  {
+    "number": "466",
+    "title": "讚美耶穌基督"
+  },
+  {
+    "number": "467",
+    "title": "主的應許"
+  },
+  {
+    "number": "468",
+    "title": "寶貴回憶"
+  },
+  {
+    "number": "469",
+    "title": "靈恩大會"
+  }
+]
